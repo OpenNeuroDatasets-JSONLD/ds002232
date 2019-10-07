@@ -5,5 +5,9 @@
     "ReferencesAndLinks": [
         "Intrinsic functional connectivity of the brain in adults with a single cerebral hemisphere"
     ],
-    "HowToAcknowledge": "If you reference this dataset in your publications, please acknowledge its authors and cite the paper specified under 'ReferenceAndLinks'. Also, please include the following message: 'This data was obtained from the Open Neuro database.'"
+    "HowToAcknowledge": "If you reference this dataset in your publications, please acknowledge its authors and cite the paper specified under 'ReferenceAndLinks'. Also, please include the following message: 'This data was obtained from the Open Neuro database.'",
+    "Authors": [
+        "Dorit Kliemann",
+        "Ralph Adolphs"
+    ]
 }
